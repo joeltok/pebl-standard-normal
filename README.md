@@ -1,4 +1,4 @@
-# pebl-standard-normal
+# PEBL Standard Normal Table Functions
 A function to get probabilities from the standard normal distribution for PEBL, the Psychology Experiment Building Language.
 
 Simply take the function from the file zValueToProbability.pbl put into into your PEBL script, and use it. 
